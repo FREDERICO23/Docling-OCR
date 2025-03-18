@@ -1,4 +1,3 @@
-# Docling-OCR
 # docling_ocr
 
 [![PyPI version](https://badge.fury.io/py/docling_ocr.svg)](https://badge.fury.io/py/docling_ocr)
