@@ -195,7 +195,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Built on the amazing work of the SmolDocling team
+- Built on the amazing work of the SmolDocling team for the [SmolDocling-256M-preview model.](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 - Inspired by the growing field of document AI
 - Thanks to the HuggingFace team for making transformers accessible
 
