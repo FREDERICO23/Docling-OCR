@@ -11,7 +11,7 @@ setup(
     ],
     author="Adhing'a Fredrick",
     author_email="adhingafredrick@gmail.com",
-    description="An OCR package using LLM models for text extraction from images",
+    description="An OCR package using LLM models for text extraction from images using SmolDocling-256M-preview model",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/FREDERICO23/docling_ocr",
